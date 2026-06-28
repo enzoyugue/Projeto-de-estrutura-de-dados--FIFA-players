@@ -1,0 +1,1 @@
+Anexados aqui estão: um relatório detalhando e explicando o código, os códigos em arquivos do tipo C e os aplicativops executáveis, sendo o SC, a versão sem comentários no código, e a CC, a versão com comentários, e o dataset utilizado, no formato CSV.
